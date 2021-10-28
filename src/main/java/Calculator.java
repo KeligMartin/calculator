@@ -22,4 +22,8 @@ public class Calculator {
     public int triple(int a) {
         return a * 3;
     }
+
+    public double power(double a, double b) {
+        return Math.pow(a, b);
+    }
 }
