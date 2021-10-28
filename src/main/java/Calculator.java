@@ -18,4 +18,8 @@ public class Calculator {
         }
         return 0;
     }
+
+    public double power(double a, double b) {
+        return Math.pow(a, b);
+    }
 }
