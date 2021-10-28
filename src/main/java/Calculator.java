@@ -18,4 +18,8 @@ public class Calculator {
         }
         return 0;
     }
+
+    public int triple(int a) {
+        return a * 3;
+    }
 }
